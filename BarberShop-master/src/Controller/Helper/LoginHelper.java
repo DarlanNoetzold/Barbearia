@@ -10,7 +10,7 @@ import View.Login;
 
 /**
  *
- * @author tiago
+ * @author darlan
  */
 public class LoginHelper implements IHelper{
 

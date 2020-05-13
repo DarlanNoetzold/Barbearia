@@ -11,7 +11,7 @@ import static javafx.scene.input.KeyCode.T;
 
 /**
  *
- * @author tiago
+ * @author darlan
  */
 public interface IHelper {
     

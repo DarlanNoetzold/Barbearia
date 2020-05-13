@@ -15,7 +15,7 @@ import javax.swing.JTextField;
 
 /**
  *
- * @author tiago
+ * @author darlan
  */
 public class Agenda extends javax.swing.JFrame {
 

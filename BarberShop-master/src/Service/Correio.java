@@ -9,7 +9,7 @@ import Model.Agendamento;
 
 /**
  * Serviço Responsavel por manipulas as saidas de email ou notificacoes  do sistema
- * @author tiago
+ * @author darlan
  */
 public class Correio {
     

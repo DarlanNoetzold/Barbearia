@@ -15,7 +15,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author tiago
+ * @author darlan
  */
 public class AgendaHelper implements IHelper{
 

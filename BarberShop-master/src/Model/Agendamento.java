@@ -13,7 +13,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author tiago
+ * @author darlan
  */
 public class Agendamento {
     

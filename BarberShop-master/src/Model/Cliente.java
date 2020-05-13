@@ -9,7 +9,7 @@ import java.util.Date;
 
 /**
  * Classe referente aos clientes do negócio
- * @author tiago
+ * @author darlan
  */
 public class Cliente extends Pessoa{
     

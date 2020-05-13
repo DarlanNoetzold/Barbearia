@@ -13,7 +13,7 @@ import java.util.logging.Logger;
 
 /**
  * Classe representa um usuario do sistema
- * @author tiago
+ * @author darlan
  */
 public class Usuario extends Pessoa{
 

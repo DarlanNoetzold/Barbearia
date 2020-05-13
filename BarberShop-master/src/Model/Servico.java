@@ -7,7 +7,7 @@ package Model;
 
 /**
  *
- * @author tiago
+ * @author darlan
  */
 public class Servico {
     

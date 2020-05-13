@@ -14,7 +14,7 @@ import View.MenuPrincipal;
 
 /**
  *
- * @author tiago
+ * @author darlan
  */
 public class LoginController {
     
